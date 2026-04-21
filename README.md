@@ -1,7 +1,7 @@
 # 豆瓣电影Top250爬虫
 
 一个完整的豆瓣电影Top250数据爬虫项目，支持数据存入MySQL数据库，带有完整的日志系统。
-*注意：此文件完全由Claude code接deepseek V3 API来完成，全程无人工修改代码
+*注意：此文件完全由Claude code接deepseek V3 API来完成，全程无人工修改代码*
 
 ## 项目结构
 
